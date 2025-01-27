@@ -7,7 +7,7 @@ This repository contains an **SQL query** for data cleaning and **exploratory da
 The dataset used for this project was sourced from **Kaggle**. You can access it here: [Dataset Link](https://www.kaggle.com/datasets/dubradave/hospital-readmissions).  
 
 ## Project Components  
-- **SQL Query (`hospital_readmissions.sql`)** – A structured SQL script that performs data cleaning, handling missing values, and conducting exploratory analysis.  
+- **SQL Query (`hospital Readmissions.sql`)** – A structured SQL script that performs data cleaning, handling missing values, and conducting exploratory analysis.  
 - **Dashboard (`hospital_readmission_dashboard.twbx`)** – A visual representation of key findings.  
 - **Insights (`insights.txt`)** – A summary of the main takeaways from the analysis.  
 
